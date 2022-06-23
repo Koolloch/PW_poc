@@ -4,17 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Koolloch/PW_poc.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Koolloch/PW_poc/issues"
-  },
-  "homepage": "https://github.com/Koolloch/PW_poc#readme",
   "devDependencies": {
     "@playwright/test": "^1.22.2"
   }
